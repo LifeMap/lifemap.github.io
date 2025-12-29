@@ -16,11 +16,12 @@ order: 4
 
 - 웹개발
 - AI를 활용한 생산성 개선
+- 팀 코칭
 
 ## 언어 및 기술
 
 - Java
-- node
+- Javascript
 - Python (twms의 새로운 개발 건으로 학습 중)
 - AWS (EC2, ECS, ECR, RDS, Lambda, Serverless, Route53, ALB/NLB, S3, CloudFront, CloudWatch 등)
 - MQTT

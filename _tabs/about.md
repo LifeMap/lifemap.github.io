@@ -22,7 +22,7 @@ order: 4
 - Java
 - node
 - Python (twms의 새로운 개발 건으로 학습 중)
-- AWS (EC2, ECS, ECR, RDS, Route53, ALB/NLB, S3, CloudFront, CloudWatch 등)
+- AWS (EC2, ECS, ECR, RDS, Lambda, Serverless, Route53, ALB/NLB, S3, CloudFront, CloudWatch 등)
 - MQTT
 
 ## 블로그 운영 목적
@@ -31,6 +31,6 @@ twms 프로젝트를 진행하며 겪은 일들을 기록하고 공유하기 위
 
 ## 연락처
 
-- **GitHub**: [LifeMap](https://github.com/LifeMap) 아쉽게도 모든 repository는 private 입니다. 차차 오픈하겠습니다...
+- **GitHub**: [LifeMap](https://github.com/LifeMap) (아쉽게도 모든 repository는 private 입니다. 차차 오픈하겠습니다...)
 - **Email**: dopejk@gmail.com
 

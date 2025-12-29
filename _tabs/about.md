@@ -19,9 +19,9 @@ order: 4
 
 ## 언어 및 기술
 
-- Java (안쓴지 오래 되었지만...)
-- node (express, nestjs)
-- Python (새로운 개발 건으로 학습 중)
+- Java
+- node
+- Python (twms의 새로운 개발 건으로 학습 중)
 - AWS (EC2, ECS, ECR, RDS, Route53, ALB/NLB, S3, CloudFront, CloudWatch 등)
 - MQTT
 
